@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: woloxinfra/podinfo:stg-9ij63o4c
+    image: woloxinfra/podinfo:stg-hsizlgpt
     replicaCount: 2
     hpa:
       enabled: true
