@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: woloxinfra/podinfo:dev-hdtwcel9
+    image: woloxinfra/podinfo:dev-o0f41dnk
     replicaCount: 2
     hpa:
       enabled: false
